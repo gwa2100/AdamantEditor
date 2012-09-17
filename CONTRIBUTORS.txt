@@ -1,0 +1,13 @@
+Note: 
+This file is not required to be included with the project.
+However it would be nice to have it included with it just
+to see how it evolves over time.
+
+
+AdamantEditor
+Founded 2012
+Founder: Timothy Carlisle
+
+Contributors:
+USER NAME    	NAME              	EMAIL                   	YEARS CONTRIB.
+GWA2100      	Timothy Carlisle  	gwa2100@gmail.com       	2012
